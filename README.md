@@ -1,6 +1,6 @@
 Sony Xperia ZL
 ==============
-
+ 
 This is the Android device configuration for Xperia ZL (fusion3 platform).
 
 Basic   | Spec Sheet
