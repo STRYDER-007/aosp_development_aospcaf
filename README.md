@@ -1,6 +1,6 @@
 Sony Xperia ZR
 ==============
-
+ 
 This is the Android device configuration for Xperia ZR (fusion3 platform).
 
 Basic   | Spec Sheet
