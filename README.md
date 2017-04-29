@@ -1,6 +1,6 @@
 Sony Xperia Z
 =============
-
+ 
 This is the Android device configuration for Xperia Z (fusion3 platform).
 
 Basic   | Spec Sheet
