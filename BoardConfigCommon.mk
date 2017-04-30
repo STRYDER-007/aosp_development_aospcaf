@@ -110,6 +110,3 @@ BOARD_SEPOLICY_DIRS += \
 
 # Time
 BOARD_USES_QC_TIME_SERVICES := true
-
-# FM Radio
-BOARD_HAVE_QCOM_FM := true
