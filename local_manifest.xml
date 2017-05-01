@@ -13,27 +13,27 @@
 
   <!-- Sony Xperia Z Manifest -->
   <project name="LineageOS/android_kernel_sony_apq8064" path="kernel/sony/apq8064" remote="github" revision="cm-14.1" />
-  <project name="STRYDER-007/aosp_device_sony_yuga" path="device/sony/yuga" remote="github" revision="CAF-7.1" />
-  <project name="STRYDER-007/aosp_device_sony_fusion3-common" path="device/sony/fusion3-common" remote="github" revision="CAF-7.1" />
+  <project name="STRYDER-007/aosp_development_aospcaf" path="device/sony/yuga" remote="github" revision="device_sony_yuga" />
+  <project name="STRYDER-007/aosp_development_aospcaf" path="device/sony/fusion3-common" remote="github" revision="device_sony_fusion3-common" />
   <project name="LineageOS/android_hardware_sony_thermanager" path="hardware/sony/thermanager" remote="github" revision="cm-14.1" />
   <project name="LineageOS/android_hardware_cyanogen" path="hardware/cyanogen" remote="github" revision="cm-14.1" />
 
   <!-- Sony Xperia ZL Manifest -->
-  <project name="STRYDER-007/aosp_device_sony_odin" path="device/sony/odin" remote="github" revision="CAF-7.1" />
+  <project name="STRYDER-007/aosp_development_aospcaf" path="device/sony/odin" remote="github" revision="device_sony_odin" />
 
   <!-- Sony Xperia ZR Manifest -->
-  <project name="STRYDER-007/aosp_device_sony_dogo" path="device/sony/dogo" remote="github" revision="CAF-7.1" />
+  <project name="STRYDER-007/aosp_development_aospcaf" path="device/sony/dogo" remote="github" revision="device_sony_dogo" />
 
   <!-- Sony Xperia Z2 Manifest -->
   <project name="rcstar6696/android_kernel_sony_msm8974" path="kernel/sony/msm8974" remote="github" revision="lineage" />
-  <project name="STRYDER-007/aosp_device_sony_sirius" path="device/sony/sirius" remote="github" revision="CAF-7.1" />
-  <project name="STRYDER-007/aosp_device_sony_msm8974-common" path="device/sony/msm8974-common" remote="github" revision="CAF-7.1" />
-  <project name="STRYDER-007/aosp_device_sony_shinano-common" path="device/sony/shinano-common" remote="github" revision="CAF-7.1" />
+  <project name="STRYDER-007/aosp_development_aospcaf" path="device/sony/sirius" remote="github" revision="device_sony_sirius" />
+  <project name="STRYDER-007/aosp_development_aospcaf" path="device/sony/msm8974-common" remote="github" revision="device_sony_msm8974-common" />
+  <project name="STRYDER-007/aosp_development_aospcaf" path="device/sony/shinano-common" remote="github" revision="device_sony_shinano-common" />
   <project name="rcstar6696/android_vendor_rcstar6696" path="vendor/rcstar6696" remote="github" revision="lineage" />
 
   <!-- Sony Xperia Z3/Z3C Manifest -->
-  <project name="STRYDER-007/aosp_device_sony_leo" path="device/sony/z3" remote="github" revision="CAF-7.1" />
-  <project name="STRYDER-007/aosp_device_sony_aries" path="device/sony/z3c" remote="github" revision="CAF-7.1" />
+  <project name="STRYDER-007/aosp_development_aospcaf" path="device/sony/z3" remote="github" revision="device_sony_leo" />
+  <project name="STRYDER-007/aosp_development_aospcaf" path="device/sony/z3c" remote="github" revision="device_sony_aries" />
 
   <!-- Sony Xperia Z Series Common  Manifest -->
   <project name="LineageOS/android_hardware_sony_macaddrsetup" path="hardware/sony/macaddrsetup" remote="github" revision="cm-14.1" />
